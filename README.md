@@ -20,7 +20,7 @@
 ### NOTE:
 
 - Please upload files in MP4 format.
-- If you upload files in MKV format, you can convert them using the `convert.sh` bash script located in the home directory. This step is only applicable for VPS users with root permissions.
+- If you upload files in MKV format, you can convert them using to MP4 using `convert.sh` bash script located in the home directory. This step is only applicable for VPS users with root permissions.
 
 ---
 
