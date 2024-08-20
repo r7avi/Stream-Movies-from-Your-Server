@@ -5,14 +5,14 @@ Deploy Application in your Server :
 3) Enable FFMpeg for Preview of Thumbnails,
 Upload Movies or Series to public/drive folder --> https://github.com/r7avi/Stream-Movies-from-Your-Server/tree/main/public/drive
 4) Login logs can be found in https://www.xyz.com/logs.php (which will show users login time)
-
+<br>
 NOTE : 
 Please Upload files in MP4 formate, 
 If you upload your files in MKV , then you can convert them using ./convert.sh Bash file in Home directory. (only for VPS users with root permission)
-
-Give them required permissions to bash script to Run :
-open directory containing convert.sh and delete.sh and run below command 
-sudo chmod +x convert.sh && sudo chmod +x delete.sh
+<br>
+Give them required permissions to bash script to Run :<br>
+open directory containing convert.sh and delete.sh and run below command <br>
+sudo chmod +x convert.sh && sudo chmod +x delete.sh<br>
 --> This command adds execute permissions to the script. After running it, you should be able to execute your script with :
-./convert.sh (or) ./delete.sh 
+./convert.sh (or) ./delete.sh <br>
 After converting files from MKV to MP4 run delete.sh to delete MKV files.
