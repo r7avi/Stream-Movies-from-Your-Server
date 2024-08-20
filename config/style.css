@@ -1,0 +1,71 @@
+/* assets/style.css */
+
+@font-face {
+    font-family: 'Jost';
+    src: url('path/to/fonts/Jost-Regular.woff2') format('woff2'); /* Adjust the path and filename */
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* assets/style.css */
+
+/* Unvisited link */
+a {
+  color: #0B60B0;
+}
+
+/* Visited link */
+a:visited {
+  color: #FF6868;
+}
+
+body {
+  font-family: Jost, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  background-color: #332941;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer {
+  background-color: #332941;
+  color: #fff;
+  text-align: center;
+  padding: 2px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  color: blue;
+}
+
+nav ul li {
+  margin-right: 12px;
+}
+
+
+nav a {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+nav a:visited {
+  color: white !important;
+}
+
+nav a:hover {
+  color: /* specify hover color */;
+}
+
+nav a:active {
+  color: /* specify active color */;
+}
+
+
