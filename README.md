@@ -1,7 +1,7 @@
 ## Deploy Application on Your Server
 
 1. **Configure Database:**
-   - Edit `Config/db.php` and replace the placeholders with your database credentials.
+   - Edit `config/db.php` and replace the placeholders with your database credentials. [here](https://github.com/r7avi/Stream-Movies-from-Your-Server/blob/main/config/db.php)
 
 2. **Import Database:**
    - Import the `database.sql` file into your database. You can find the file [here](https://github.com/r7avi/Stream-Movies-from-Your-Server/blob/main/database.sql).
