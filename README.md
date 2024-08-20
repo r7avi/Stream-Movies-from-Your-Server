@@ -16,3 +16,9 @@ sudo chmod +x convert.sh && sudo chmod +x delete.sh<br><br>
 --> This command adds execute permissions to the script. After running it, you should be able to execute your script with :
 ./convert.sh (or) ./delete.sh <br><br>
 After converting files from MKV to MP4 run delete.sh to delete MKV files.
+
+sceenshots :
+![Screenshot 2024-08-20 172033](https://github.com/user-attachments/assets/9f9fc4b0-a1a7-4e99-9635-853747de1df2)
+![Screenshot 2024-08-20 172336](https://github.com/user-attachments/assets/a63bee7d-caf4-43ea-9322-4598f22f135b)
+![screencapture-ktmracing-site-public-play-php-2024-08-20-17_24_05](https://github.com/user-attachments/assets/2aeb2ba9-5520-461e-bc5c-94425389c456)
+
