@@ -35,7 +35,7 @@ To give the required permissions to the bash scripts, follow these steps:
     chmod +x convert.sh && chmod +x delete.sh
     ```
 
-   This command adds execute permissions to the scripts.
+   This command adds execute permissions to the scripts. if you face problem try to enter each seperatly
 
 3. After running the command, you can execute the scripts with:
 
