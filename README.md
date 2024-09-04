@@ -32,7 +32,7 @@ To give the required permissions to the bash scripts, follow these steps:
 2. Run the following command:
 
     ```bash
-    sudo chmod +x convert.sh && sudo chmod +x delete.sh
+    chmod +x convert.sh && chmod +x delete.sh
     ```
 
    This command adds execute permissions to the scripts.
