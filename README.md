@@ -1,4 +1,4 @@
-## Deploy Application on Your Server
+## Deploy Application on Your Server (Supported PHP 7.4 , 8.0)
 
 1. **Configure Database:**
    - Edit `config/db.php` and replace the placeholders with your database credentials. [here](https://github.com/r7avi/Stream-Movies-from-Your-Server/blob/main/config/db.php)
