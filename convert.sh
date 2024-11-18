@@ -1,6 +1,6 @@
 #!/bin/bash
 
-root_directory="/home/ktmracing.site/public_html/public/drive"
+root_directory="/home/xxxx.site/public_html/public/drive" # Modify the Path accordingly
 
 # Find all MKV files and loop through them
 shopt -s globstar
