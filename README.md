@@ -29,7 +29,20 @@
 To give the required permissions to the bash scripts, follow these steps:
 
 1. Open the directory containing `convert.sh` and `delete.sh`.
-2. Run the following command:
+2. Install FFMepg
+
+    ```bash
+    sudo apt-get install ffmpeg
+    ```
+
+
+
+
+3. Run the following command:
+
+    ```bash
+    dos2unix convert.sh && dos2unix delete.sh
+    ```
 
     ```bash
     chmod +x convert.sh && chmod +x delete.sh
@@ -37,11 +50,15 @@ To give the required permissions to the bash scripts, follow these steps:
 
    This command adds execute permissions to the scripts. if you face problem try to enter each seperatly
 
-3. After running the command, you can execute the scripts with:
+4. After running the command, you can execute the scripts with:
 
     ```bash
     ./convert.sh
     ```
+
+
+(Edit URL Path in Convert.sh : root_directory="/home/ktmracing.site/public_html/public/drive" with your Server URL
+)
 
     or
 
