@@ -55,13 +55,12 @@ To give the required permissions to the bash scripts, follow these steps:
 
 4. After running the command, you can execute the scripts with:
 
+(Edit URL Path in Convert.sh : root_directory="/home/ktmracing.site/public_html/public/drive" with your Server URL
+)
+
     ```bash
     ./convert.sh
     ```
-
-
-(Edit URL Path in Convert.sh : root_directory="/home/ktmracing.site/public_html/public/drive" with your Server URL
-)
 
     or
 
@@ -69,7 +68,7 @@ To give the required permissions to the bash scripts, follow these steps:
     ./delete.sh
     ```
 
-4. After converting files from MKV to MP4, run `delete.sh` to remove the MKV files.
+5. After converting files from MKV to MP4, run `delete.sh` to remove the MKV files.
 
 
 
