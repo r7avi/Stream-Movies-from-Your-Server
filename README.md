@@ -36,9 +36,12 @@ To give the required permissions to the bash scripts, follow these steps:
     ```
 
 
-
-
 3. Run the following command:
+
+
+    ```bash
+    sudo apt-get install dos2unix   # Install dos2unix if not already installed
+    ```
 
     ```bash
     dos2unix convert.sh && dos2unix delete.sh
